@@ -1,6 +1,6 @@
 gg
 
-https://bedwaring.github.io
+https://bedwaring.github.io/rip
 
 
 <!--
