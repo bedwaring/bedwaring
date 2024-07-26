@@ -1,4 +1,4 @@
-# badcode
+# bad code
 ## https://bedwaring.github.io
 
 <!--
